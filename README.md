@@ -22,6 +22,9 @@ The script will execute and display any IP addresses associated with ongoing rev
 
 # POC
 
-https://github.com/0x01sudipta/Reverse-Shell-Detector/assets/78684283/0daaa06f-5019-4f67-a972-dec931d1adb8
+
+https://github.com/0x01sudipta/Reverse-Shell-Detector/assets/78684283/db1abbab-73bc-4e45-aac6-40ecc3dcdf94
+
+
 
 
