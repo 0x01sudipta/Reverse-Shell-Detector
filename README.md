@@ -19,3 +19,9 @@ To use this script, follow these steps:
     ./Reverse_Shell_Detector.sh
 
 The script will execute and display any IP addresses associated with ongoing reverse shell processes in the background.
+
+# POC
+
+https://github.com/0x01sudipta/Reverse-Shell-Detector/assets/78684283/0daaa06f-5019-4f67-a972-dec931d1adb8
+
+
