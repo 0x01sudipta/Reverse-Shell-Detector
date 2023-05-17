@@ -6,6 +6,7 @@ This script detects IP addresses associated with reverse shell connections to yo
 One common method used by attackers to gain unauthorized access to servers is through the use of reverse shells. This method is employed by both novice attackers and advanced persistent threat (APT) hackers. By running this script, your server can be configured to send alerts whenever a reverse shell connection is detected.
 
 
+
 #Usage
 To use this script, follow these steps:
 
